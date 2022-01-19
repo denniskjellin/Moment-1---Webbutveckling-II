@@ -35,4 +35,8 @@ README filen (som jag skriver i nu) ska skapas med markdown och ge en kort beskr
 ### Skapa en personlig README-fil för min profil
 Skapa en README-fil med passande innehåll för min profil. Information i denna ska då sedan visas upp om någon besöker min Github profil.
 
+För att klona mitt repository, command: git clone https://github.com/denniskjellin/test.git
+______________________________________________________________________________________________
+
 URL till min github profil: https://github.com/denniskjellin
+
